@@ -1,11 +1,14 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: "The title of your site"
-description: "A short description of your site's purpose"
-url: "https://your-site-url.com" # เพิ่ม URL ของเว็บไซต์ของคุณ
-baseurl: "" # ถ้าเว็บไซต์ของคุณไม่มี sub-directory ให้เว้นว่างไว้
-author:
+title: My Jekyll Site
+description: This is a short description of my Jekyll site.
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: user/repo # Replace with the theme you want to use
+
   name: "Krit Chanthim" # 
   email: "kritlove333@gmail.com" # 
 markdown: kramdown # สามารถตั้งค่า markdown engine
