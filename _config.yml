@@ -1,5 +1,25 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "The title of your site"
+description: "A short description of your site's purpose"
+url: "https://your-site-url.com" # เพิ่ม URL ของเว็บไซต์ของคุณ
+baseurl: "" # ถ้าเว็บไซต์ของคุณไม่มี sub-directory ให้เว้นว่างไว้
+author:
+  name: "Krit Chanthim" # 
+  email: "kritlove333@gmail.com" # 
+markdown: kramdown # สามารถตั้งค่า markdown engine
+theme: "dinky" # ตั้งธีมโดยตรง
+
+# การตั้งค่าการแสดงผลอื่น ๆ ที่อาจต้องการ:
+social_links:
+  instagram: "https://www.instagram.com/kiss_chr1s?igsh=NWcwdTdkbGloMHRh&utm_source=qr"
+
+# เพิ่มการตั้งค่าภาษา (ถ้าจำเป็น)
+language: en # กำหนดภาษาของเว็บไซต์
+
+# อาจเพิ่มการตั้งค่าความสามารถเพิ่มเติม เช่น permalink, paginate, etc.
+permalink: /:year/:month/:day/:title/ # กำหนดรูปแบบ URL สำหรับโพสต์
+paginate: 10 # จำนวนโพสต์ต่อหน้า
+paginate_path: "/page:num/" # รูปแบบ URL สำหรับหน้าถัดไป
+
