@@ -5,7 +5,7 @@
 - **Control Function**: Preventative , Detective Controls
 - **Type of Security Control** : Physical Control
 
-![Picture](7CCD73DE-6C29-4753-820E-0EA9AD2E3E6C.jpg)
+![Picture](pic/7CCD73DE-6C29-4753-820E-0EA9AD2E3E6C.jpg)
 
 ประเภทของมาตรการควบคุมความปลอดภัย: มาตรการควบคุมทางกายภาพ (Physical Controls)
 มาตรการควบคุมทางกายภาพสามารถแบ่งออกเป็น 2 ประเภทหลัก ได้แก่
