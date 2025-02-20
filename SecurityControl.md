@@ -1,5 +1,5 @@
 # Security Control
-## ลูกบิดและกุญแจมอเตอร์ไซค์
+## ประตูเข้าออกหอ
 
 - **Location**: หอบ้านสุขสบาย
 - **Control Function**: Preventative , Detective Controls
