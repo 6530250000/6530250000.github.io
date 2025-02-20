@@ -1,5 +1,5 @@
 # Security Control
-## ประตูเข้าออกหอ
+## ประตูเข้าออกหอพัก
 
 - **Location**: หอบ้านสุขสบาย
 - **Control Function**: Preventative , Detective Controls
