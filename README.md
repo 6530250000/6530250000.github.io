@@ -8,4 +8,4 @@
 ## [My vocabulary "keyclustering"](keyclustering.md)
 ## [Christmas card](marry.md)
 ## [Timeliness](timeliness.md)
-## [Security Control](security-control)
+## [Security Control](Security Control.md)
