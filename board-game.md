@@ -29,7 +29,7 @@
 ![bg1](pic/IMG_2072.jpg)
 
 #### Video
-[![Video](pic/image_2025-03-09_205838024.png)](https://www.youtube.com/watch?v=jSjYxhDBHN0)
+[![Video](pic/w1.png)
 [⬆️ ⬆️ ⬆️ Cilck เลย ⬆️ ⬆️ ⬆️](https://www.youtube.com/watch?v=jSjYxhDBHN0)
 ## สมาชิกภายในกลุ่ม
 
